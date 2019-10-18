@@ -19,23 +19,23 @@
         <group name="Clock configuration 0">
           <boolgroup name="Very low power mode" v="Disabled" />
           <enumgroup name="Clock source setting" v="configuration 0">
-            <MCG_mode v="PEE" />
-            <MCG_output__MHz_ v="96" />
+            <MCG_mode v="FEI" />
+            <MCG_output__MHz_ v="20.971520000000" />
             <MCGIRCLK_clock__MHz_ v="0.032768" />
-            <OSCERCLK_clock__MHz_ v="8" />
+            <OSCERCLK_clock__MHz_ v="0" />
             <ERCLK32K__clock__MHz_ v="0.001" />
-            <MCGFFCLK__kHz_ v="31.25" />
+            <MCGFFCLK__kHz_ v="32.768" />
           </enumgroup>
           <group name="System clocks">
             <Core_clock_prescaler v="Auto select" />
-            <Core_clock v="48" />
+            <Core_clock v="20.971520000000" />
             <Bus_clock_prescaler v="Auto select" />
-            <Bus_clock v="24" />
+            <Bus_clock v="20.971520000000" />
             <enumgroup name="PLL/FLL clock selection" v="Auto select">
-              <Clock_frequency__MHz_ v="48" />
+              <Clock_frequency__MHz_ v="20.971520000000" />
             </enumgroup>
             <enumgroup name="TPM clock selection" v="Auto select">
-              <Clock_frequency__MHz_ v="48" />
+              <Clock_frequency__MHz_ v="20.971520000000" />
             </enumgroup>
           </group>
         </group>
