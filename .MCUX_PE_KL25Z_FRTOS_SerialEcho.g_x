@@ -26,7 +26,7 @@
       <File Name="Generated_Code/port.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999892" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/RxBufconfig.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999971" FileType="45637" CompNumb="5" />
       <File Name="Generated_Code/projdefs.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999908" FileType="45637" CompNumb="9" />
-      <File Name="Documentation/MCUX_PE_KL25Z_FRTOS_SerialEcho_SIGNALS.txt" FileDate="2019-10-18, 10:30:59" FileAge="1571409059853" FileType="3072" />
+      <File Name="Documentation/MCUX_PE_KL25Z_FRTOS_SerialEcho_SIGNALS.txt" FileDate="2019-11-06, 17:38:03" FileAge="1573079883241" FileType="3072" />
       <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
       <File Name="Generated_Code/PE_Const.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999787" FileType="45637" />
       <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2019-10-17, 19:46:39" FileAge="1571355999766" FileType="8" CompNumb="2" />
@@ -92,8 +92,8 @@
       <File Name="Generated_Code/task.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999921" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/CS1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999983" FileType="45637" CompNumb="8" />
       <File Name="Generated_Code/croutine.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999857" FileType="45637" CompNumb="9" />
-      <File Name="Generated_Code/FreeRTOS_license.txt" FileDate="2019-10-17, 19:46:39" FileAge="1571355999884" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/queue.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999913" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/FreeRTOS_license.txt" FileDate="2019-10-17, 19:46:39" FileAge="1571355999884" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/UTIL1config.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999964" FileType="45637" CompNumb="11" />
       <File Name="Generated_Code/CS1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999981" FileType="45637" CompNumb="8" />
       <File Name="Generated_Code/croutine.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999859" FileType="45637" CompNumb="9" />
@@ -102,58 +102,58 @@
       <File Name="Generated_Code/tasks.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999924" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/portTicks.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999895" FileType="45637" CompNumb="9" />
       <File Name="Project_Settings/Startup_Code/startup.c" FileDate="2019-10-16, 14:37:49" FileAge="1571251069568" FileType="16384" CompNumb="2" />
-      <File Name="Generated_Code/heap_useNewlib.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999879" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/MCUC1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999989" FileType="45637" CompNumb="6" />
-      <File Name="Generated_Code/MCUC1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999987" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/heap_useNewlib.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999879" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/freertos_tasks_c_additions.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999943" FileType="45637" CompNumb="9" />
-      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
-      <File Name="Generated_Code/FreeRTOSConfig.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999865" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/MCUC1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999987" FileType="45637" CompNumb="6" />
       <File Name="Generated_Code/LEDpin3.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999807" FileType="45637" CompNumb="56" />
-      <File Name="Generated_Code/FRTOS1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999956" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/FreeRTOSConfig.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999865" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
       <File Name="Generated_Code/BitIoLdd3.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999814" FileType="45637" CompNumb="57" />
+      <File Name="Generated_Code/FRTOS1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999956" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/CS1config.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999978" FileType="45637" CompNumb="8" />
       <File Name="Generated_Code/LEDpin3.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999805" FileType="45637" CompNumb="56" />
       <File Name="Generated_Code/LEDpin2.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999825" FileType="45637" CompNumb="54" />
-      <File Name="Generated_Code/FRTOS1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999961" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/BitIoLdd3.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999810" FileType="45637" CompNumb="57" />
-      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999831" FileType="45637" CompNumb="55" />
+      <File Name="Generated_Code/FRTOS1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999961" FileType="45637" CompNumb="9" />
       <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069674" FileType="1048576" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999831" FileType="45637" CompNumb="55" />
       <File Name="Generated_Code/LEDpin2.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999823" FileType="45637" CompNumb="54" />
       <File Name="Generated_Code/LEDpin1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999843" FileType="45637" CompNumb="52" />
       <File Name="Generated_Code/BitIoLdd2.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999829" FileType="45637" CompNumb="55" />
-      <File Name="Documentation/doxygen/AS1_component.txt" FileDate="2019-10-17, 19:09:28" FileAge="1571353768232" FileType="45637" CompNumb="4" />
       <File Name="Generated_Code/BitIoLdd1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999849" FileType="45637" CompNumb="53" />
+      <File Name="Documentation/doxygen/AS1_component.txt" FileDate="2019-10-17, 19:09:28" FileAge="1571353768232" FileType="45637" CompNumb="4" />
       <File Name="Generated_Code/LEDpin1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999840" FileType="45637" CompNumb="52" />
-      <File Name="Generated_Code/heap_useNewlib.txt" FileDate="2019-10-17, 19:46:39" FileAge="1571355999882" FileType="45637" CompNumb="9" />
       <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
-      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999846" FileType="45637" CompNumb="53" />
-      <File Name="Generated_Code/.gdbinit-FreeRTOS-helpers" FileDate="2019-10-17, 19:46:39" FileAge="1571355999953" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/heap_useNewlib.txt" FileDate="2019-10-17, 19:46:39" FileAge="1571355999882" FileType="45637" CompNumb="9" />
       <File Name="Generated_Code/TSK1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999855" FileType="45637" CompNumb="12" />
-      <File Name="Generated_Code/LEDRconfig.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999833" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/.gdbinit-FreeRTOS-helpers" FileDate="2019-10-17, 19:46:39" FileAge="1571355999953" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999846" FileType="45637" CompNumb="53" />
       <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
+      <File Name="Generated_Code/LEDRconfig.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999833" FileType="45637" CompNumb="13" />
       <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
       <File Name="Generated_Code/TSK1.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999853" FileType="45637" CompNumb="12" />
       <File Name="Generated_Code/deprecated_definitions.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999905" FileType="45637" CompNumb="9" />
-      <File Name="Documentation/doxygen/BitIoLdd1_component.txt" FileDate="2019-10-17, 18:33:29" FileAge="1571351609087" FileType="45637" CompNumb="53" />
       <File Name="Generated_Code/FRTOS1config.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999958" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/doxygen/BitIoLdd1_component.txt" FileDate="2019-10-17, 18:33:29" FileAge="1571351609087" FileType="45637" CompNumb="53" />
       <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069674" FileType="1048576" />
       <File Name="Generated_Code/PE_Types.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999792" FileType="45637" />
       <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
-      <File Name="Generated_Code/PE_LDD.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999769" FileType="45637" CompNumb="2" />
       <File Name="Static_Code/PDD/MCG_PDD.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069690" FileType="1048576" />
-      <File Name="Sources/main.c" FileDate="2019-10-17, 19:25:04" FileAge="1571354704863" FileType="128" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999769" FileType="45637" CompNumb="2" />
       <File Name="Generated_Code/LEDR.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999838" FileType="45637" CompNumb="13" />
-      <File Name="Documentation/doxygen/BitIoLdd3_component.txt" FileDate="2019-10-17, 18:33:29" FileAge="1571351609217" FileType="45637" CompNumb="57" />
-      <File Name="Generated_Code/portable.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999898" FileType="45637" CompNumb="9" />
+      <File Name="Sources/main.c" FileDate="2019-10-17, 19:25:04" FileAge="1571354704863" FileType="128" />
       <File Name="Generated_Code/AS1.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999996" FileType="45637" CompNumb="4" />
-      <File Name="Generated_Code/PE_LDD.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999772" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/portable.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999898" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/doxygen/BitIoLdd3_component.txt" FileDate="2019-10-17, 18:33:29" FileAge="1571351609217" FileType="45637" CompNumb="57" />
       <File Name="Generated_Code/portmacro.h" FileDate="2019-10-17, 19:46:39" FileAge="1571355999903" FileType="45637" CompNumb="9" />
-      <File Name="Generated_Code/LEDR.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999836" FileType="45637" CompNumb="13" />
-      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069674" FileType="1048576" CompNumb="2" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999772" FileType="45637" CompNumb="2" />
       <File Name="Static_Code/IO_Map/MKL25Z4.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069674" FileType="1048576" CompNumb="2" />
-      <File Name="Generated_Code/AS1.c" FileDate="2019-10-18, 10:20:11" FileAge="1571408411655" FileType="45637" CompNumb="4" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2019-10-16, 14:37:49" FileAge="1571251069674" FileType="1048576" CompNumb="2" />
+      <File Name="Generated_Code/LEDR.c" FileDate="2019-10-17, 19:46:39" FileAge="1571355999836" FileType="45637" CompNumb="13" />
       <File Name="Generated_Code/readme_gdbBacktraceDebug.txt" FileDate="2019-10-17, 19:46:39" FileAge="1571355999951" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/AS1.c" FileDate="2019-10-18, 10:20:11" FileAge="1571408411655" FileType="45637" CompNumb="4" />
     </GeneratedByPE>
   </GeneratedFilesList>
-  <CodeGenReference>4</CodeGenReference>
+  <CodeGenReference>5</CodeGenReference>
 </CodeGenerationInfo>
